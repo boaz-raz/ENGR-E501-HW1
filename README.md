@@ -1,1 +1,1 @@
-"# ENGR-E501-HW1" 
+# VHDL codes to implement OR, XOR, NAND, XNOR and NOT gates.
